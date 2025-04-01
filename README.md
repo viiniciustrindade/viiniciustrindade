@@ -12,7 +12,7 @@
 <p align="center">
   <samp>
     Professor de Tecnologia com foco em desenvolvimento Full Stack com Java Spring Boot, .NET e Agular.<br>
-    Apaixonado por arquitetura de software e ensino de programação full stack.<br>
+    Apaixonado por arquitetura de software e ensino de programação Full Stack.<br>
   </samp>
 </p>
 
