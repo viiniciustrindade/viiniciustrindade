@@ -11,9 +11,8 @@
 ### 👨‍🏫 **Sobre Mim**  
 <p align="center">
   <samp>
-    Professor de Tecnologia especializado em desenvolvimento backend com Java Spring Boot e .NET.<br>
+    Professor de Tecnologia com foco em desenvolvimento Full Stack com Java Spring Boot, .NET e Agular.<br>
     Apaixonado por arquitetura de software e ensino de programação full stack.<br>
-    "Não é sobre códigos, é sobre transformar vidas através da tecnologia."
   </samp>
 </p>
 
