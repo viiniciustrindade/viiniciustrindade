@@ -55,15 +55,4 @@
   ▫️ Documentação de Software
 </p>
 
----
 
-### 📊 **GitHub Analytics**  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viiniciustrindade&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiniciustrindade&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viiniciustrindade&label=Visitas+ao+Perfil&color=blueviolet&style=flat" alt="viiniciustrindade" />
-</p>
