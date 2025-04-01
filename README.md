@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Vinícius Trindade!</h1>
-<h3 align="center">Professor de Tecnologia | Desenvolvedor Full Stack | .NET | Spring Boot</h3>
+<h3 align="center">Professor de Tecnologia | Desenvolvedor Full Stack | .NET | Spring Boot | Angular</h3>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/vinicius-trindade-7724491a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
