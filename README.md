@@ -52,7 +52,7 @@
   ▫️ Arquitetura de Software<br>
   ▫️ Desenvolvimento Backend (Java Spring Boot & .NET)<br>
   ▫️ Bancos de Dados Relacionais<br>
-  ▫️ Programação Web Full Stack
+  ▫️ Programação Web Full Stack<br>
   ▫️ Documentação de Software
 </p>
 
