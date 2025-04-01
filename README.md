@@ -53,6 +53,7 @@
   ▫️ Desenvolvimento Backend (Java Spring Boot & .NET)<br>
   ▫️ Bancos de Dados Relacionais<br>
   ▫️ Programação Web Full Stack
+  ▫️ Documentação de Software
 </p>
 
 ---
