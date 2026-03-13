@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I am Vinicius Trindade!</h1>
-<h3 align="center">Software Engineer | Technology Instructor | Spring Boot | .NET | React | Docker</h3>
+<h3 align="center">Software Engineer | Technology Instructor | Spring Boot | .NET | React | Docker | Kafka</h3>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/vinicius-trindade-7724491a7/">
@@ -16,8 +16,9 @@
 
 <p align="center">
 <samp>
-Software engineer focused on back-end development, clean architecture and CI/CD.<br>
-I build scalable and reliable applications for companies.
+Software engineer focused on back-end development, distributed systems and clean architecture.<br>
+I build scalable and reliable applications using modern technologies such as Spring Boot, Docker and Kafka.<br>
+Passionate about designing robust APIs, event-driven systems and implementing CI/CD pipelines.
 </samp>
 </p>
 
@@ -30,8 +31,6 @@ I build scalable and reliable applications for companies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
@@ -42,6 +41,7 @@ I build scalable and reliable applications for companies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
 </p>
@@ -49,7 +49,8 @@ I build scalable and reliable applications for companies.
 ---
 
 ### 📌 REST API with Clean Architecture
-Scalable backend project applying clean architecture and best practices.
+
+Scalable backend project applying clean architecture, JWT security, CI/CD pipelines and event-driven communication with Kafka.
 
 🔗 https://github.com/viiniciustrindade/todolist-api
 
@@ -57,7 +58,7 @@ Scalable backend project applying clean architecture and best practices.
 
 # 📫 Contact
 
-📧 Email: vinicius.mjt@gmail.com 
+📧 Email: vinicius.mjt@gmail.com  
 💼 LinkedIn: https://br.linkedin.com/in/vinicius-trindade-7724491a7/
 
 ---
