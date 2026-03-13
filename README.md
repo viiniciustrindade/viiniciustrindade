@@ -48,7 +48,7 @@ Passionate about designing robust APIs, event-driven systems and implementing CI
 
 ---
 
-### 📌 REST API with Clean Architecture
+### 📌 REST API with Clean Architecture and Kafka
 
 Scalable backend project applying clean architecture, JWT security, CI/CD pipelines and event-driven communication with Kafka.
 
